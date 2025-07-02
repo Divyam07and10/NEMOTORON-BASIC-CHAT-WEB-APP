@@ -1,0 +1,12 @@
+streamlit
+openai
+python-dotenv
+pinecone
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+pypdf
+langchain_pinecone
+open_clip_torch
+torch

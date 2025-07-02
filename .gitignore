@@ -1,0 +1,5 @@
+chatbot/
+__pycache__/
+*.pyc
+.env
+data/Help-Guide.pdf
