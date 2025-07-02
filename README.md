@@ -142,16 +142,6 @@ The chatbot relies on a PDF document named [`Help-Guide.pdf`](./Help-Guide.pdf),
 
 ---
 
-## 📞 Support
-
-If you experience issues with the PDX system, the original guide suggests contacting:
-
-- 📧 Email: `itsupport@pdxdelivers.com`
-- ☎️ Phone: `1-610-595-3390`
-- 🌐 Website: [www.pdxdelivers.com](http://www.pdxdelivers.com/)
-
----
-
 ## ✅ License
 
 This project is for educational or internal use only. Respect any licenses attached to NVIDIA models, Pinecone, and other third-party libraries used herein.
